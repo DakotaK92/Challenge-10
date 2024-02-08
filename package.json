@@ -1,5 +1,5 @@
 {
-  "name": "chellenge-10",
+  "name": "svg-generator",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,16 +11,13 @@
     "test": "jest"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/DakotaK92/Challenge-10"
+    "type": "git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DakotaK92/Challenge-10/issues"
   },
-  "homepage": "https://github.com/DakotaK92/Challenge-10/blob/main/README.md",
   "dependencies": {
     "inquirer": "^8.2.4"
   },
